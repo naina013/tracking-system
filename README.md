@@ -1,2 +1,2 @@
-# tracking-system
-   INTRODUCTION   Security is very important in some activities. Freeride, mountain walking or climbing, paragliding are those where accidents can be serious or fatal. Having the possibility to follow physically the position of a person on regular basis can be comfortable for family, relatives or others. The project is meant to propose a simple and portable solution for people to get traced during a trip. The application is web based and should be available for every people who has the possibility to have internet access.In this project, we exploited the 'javascript' and 'php' libraries along with cordova location API to track the person.
+# Employee-tracking-system
+This was a project done for a winter development challenge of IIIT Bhubaneswar.In this team project we have to make a real time Employee tracking system.In this we made an android app which will give the real time location of an employee.
